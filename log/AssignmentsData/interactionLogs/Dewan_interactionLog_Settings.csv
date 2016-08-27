@@ -62,3 +62,11 @@
 1472246557609,17:22:37,NavigationInitiated
 1472246557750,17:22:37,GraderSettingsEnded
 1472246559671,17:22:39,ProjectStepperStarted
+1472306995329,10:09:55,ModuleUserChange,null
+1472306995485,10:09:55,AnimationPauseTimeUserChange,2
+1472306995517,10:09:55,ProblemUserChange,null
+1472307001526,10:10:01,GraderSettingsDisplayed
+1472307001542,10:10:01,GraderSettingsStarted,Comp999JUnit,Assignment 1,acorrect,wangle,Automatic and then manual,Grading Status,All
+1472307012242,10:10:12,NavigationInitiated
+1472307012446,10:10:12,GraderSettingsEnded
+1472307015565,10:10:15,ProjectStepperStarted

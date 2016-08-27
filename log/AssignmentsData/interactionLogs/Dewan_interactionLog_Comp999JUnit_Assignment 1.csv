@@ -186,3 +186,26 @@
 1472246808896,17:26:48,ProjectStepStarted,wangle,smallCOMMMA extracredit 
 1472246865677,17:27:45,ProjectStepEnded,wangle,wrongCOMMMA angle ,20.0,20.3,0.0,1.0,,,0
 1472246865677,17:27:45,ProjectStepperEnded
+1472307015565,10:10:15,ProjectStepperStarted
+1472307016675,10:10:16,NavigationKindChange,Automatic
+1472307016675,10:10:16,NavigationStarted
+1472307016675,10:10:16,AutomaticNavigationStarted
+1472307016799,10:10:16,ProjectStepStarted,acorrect,
+1472307141704,10:12:21,ProjectStepEnded,acorrect,allCOMMMA correct ,35.0,35.0,0.0,1.0,,,0
+1472307141735,10:12:21,ProjectStepStarted,aecredit,allCOMMMA correct 
+1472307145295,10:12:25,ProjectStepEnded,aecredit,allCOMMMA extracredit ,5.0,5.0,0.0,1.0,,,0
+1472307145342,10:12:25,ProjectStepStarted,missingcode,allCOMMMA extracredit 
+1472307147778,10:12:27,ProjectStepEnded,missingcode,missingCOMMMA code ,0.0,0.0,0.0,1.0,,,0
+1472307147825,10:12:27,ProjectStepStarted,secredit,missingCOMMMA code 
+1472307150025,10:12:30,ProjectStepEnded,secredit,smallCOMMMA extracredit ,5.0,5.0,0.0,1.0,,,0
+1472307150041,10:12:30,ProjectStepStarted,wangle,smallCOMMMA extracredit 
+1472307151851,10:12:31,ProjectStepEnded,wangle,wrongCOMMMA angle ,20.0,20.3,0.0,1.0,,,0
+1472307151897,10:12:31,AutomaticNavigationEnded
+1472307151897,10:12:31,NavigationKindChange,Manual
+1472307151897,10:12:31,NavigationStarted
+1472307151897,10:12:31,ManualNavigationStarted
+1472307151897,10:12:31,ProjectStepStarted,acorrect,wrongCOMMMA angle 
+1472307152147,10:12:32,ManualNavigationEnded
+1472307253142,10:14:13,ProceedWhenDoneChanged,acorrect,allCOMMMA correct 
+1472307254108,10:14:14,ProjectStepEnded,acorrect,allCOMMMA correct ,35.0,35.0,0.0,1.0,,,0
+1472307254108,10:14:14,ProjectStepperEnded
