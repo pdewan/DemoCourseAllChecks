@@ -209,3 +209,123 @@
 1472307253142,10:14:13,ProceedWhenDoneChanged,acorrect,allCOMMMA correct 
 1472307254108,10:14:14,ProjectStepEnded,acorrect,allCOMMMA correct ,35.0,35.0,0.0,1.0,,,0
 1472307254108,10:14:14,ProjectStepperEnded
+1472333934647,17:38:54,ProjectStepperStarted
+1472333934882,17:38:54,NavigationKindChange,Automatic
+1472333934882,17:38:54,NavigationStarted
+1472333934882,17:38:54,AutomaticNavigationStarted
+1472333934907,17:38:54,ProjectStepStarted,acorrect,
+1472333941246,17:39:01,ProjectStepEnded,acorrect,allCOMMMA correct ,5.0,5.0,0.0,1.0,,,0
+1472333941261,17:39:01,ProjectStepStarted,aecredit,allCOMMMA correct 
+1472333943592,17:39:03,ProjectStepEnded,aecredit,allCOMMMA extracredit ,5.0,5.0,0.0,1.0,,,0
+1472333943608,17:39:03,ProjectStepStarted,missingcode,allCOMMMA extracredit 
+1472333944987,17:39:04,ProjectStepEnded,missingcode,missingCOMMMA code ,0.0,0.0,0.0,1.0,,,0
+1472333945003,17:39:05,ProjectStepStarted,secredit,missingCOMMMA code 
+1472333948021,17:39:08,ProjectStepEnded,secredit,smallCOMMMA extracredit ,5.0,5.0,0.0,1.0,,,0
+1472333948037,17:39:08,ProjectStepStarted,wangle,smallCOMMMA extracredit 
+1472333949418,17:39:09,ProjectStepEnded,wangle,wrongCOMMMA angle ,0.0,0.0,0.0,1.0,,,0
+1472333949465,17:39:09,AutomaticNavigationEnded
+1472333949886,17:39:09,NavigationKindChange,Manual
+1472333949902,17:39:09,NavigationStarted
+1472333949902,17:39:09,ManualNavigationStarted
+1472333949902,17:39:09,ProjectStepStarted,acorrect,wrongCOMMMA angle 
+1472333950042,17:39:10,ManualNavigationEnded
+1472333971982,17:39:31,ProceedWhenDoneChanged,acorrect,allCOMMMA correct 
+1472334056371,17:40:56,ProjectStepEnded,acorrect,allCOMMMA correct ,5.0,5.0,0.0,1.0,,,0
+1472334056371,17:40:56,ProjectStepperEnded
+1472334565918,17:49:25,ProjectStepperStarted
+1472334566154,17:49:26,NavigationKindChange,Automatic
+1472334566154,17:49:26,NavigationStarted
+1472334566154,17:49:26,AutomaticNavigationStarted
+1472334566226,17:49:26,ProjectStepStarted,acorrect,
+1472335544184,18:05:44,ProjectStepperStarted
+1472335544412,18:05:44,NavigationKindChange,Automatic
+1472335544412,18:05:44,NavigationStarted
+1472335544412,18:05:44,AutomaticNavigationStarted
+1472335544428,18:05:44,ProjectStepStarted,acorrect,
+1472335574736,18:06:14,ProjectStepEnded,acorrect,allCOMMMA correct ,35.0,35.0,0.0,1.0,,,0
+1472335574752,18:06:14,ProjectStepStarted,aecredit,allCOMMMA correct 
+1472335578412,18:06:18,ProjectStepEnded,aecredit,allCOMMMA extracredit ,5.0,5.0,0.0,1.0,,,0
+1472335578428,18:06:18,ProjectStepStarted,missingcode,allCOMMMA extracredit 
+1472335579968,18:06:19,ProjectStepEnded,missingcode,missingCOMMMA code ,17.0,17.3,0.0,1.0,,,0
+1472335579968,18:06:19,ProjectStepStarted,secredit,missingCOMMMA code 
+1472335583020,18:06:23,ProjectStepEnded,secredit,smallCOMMMA extracredit ,5.0,5.0,0.0,1.0,,,0
+1472335583036,18:06:23,ProjectStepStarted,wangle,smallCOMMMA extracredit 
+1472335585265,18:06:25,ProjectStepEnded,wangle,wrongCOMMMA angle ,20.0,20.3,0.0,1.0,,,0
+1472335585296,18:06:25,AutomaticNavigationEnded
+1472335585296,18:06:25,NavigationKindChange,Manual
+1472335585296,18:06:25,NavigationStarted
+1472335585296,18:06:25,ManualNavigationStarted
+1472335585296,18:06:25,ProjectStepStarted,acorrect,wrongCOMMMA angle 
+1472335585484,18:06:25,ManualNavigationEnded
+1472335910067,18:11:50,ProjectStepperStarted
+1472335910379,18:11:50,NavigationKindChange,Automatic
+1472335910379,18:11:50,NavigationStarted
+1472335910379,18:11:50,AutomaticNavigationStarted
+1472335910423,18:11:50,ProjectStepStarted,acorrect,
+1472335927430,18:12:07,ProjectStepEnded,acorrect,allCOMMMA correct ,35.0,35.0,0.0,1.0,,,0
+1472335927446,18:12:07,ProjectStepStarted,aecredit,allCOMMMA correct 
+1472335930956,18:12:10,ProjectStepEnded,aecredit,allCOMMMA extracredit ,5.0,5.0,0.0,1.0,,,0
+1472335930956,18:12:10,ProjectStepStarted,missingcode,allCOMMMA extracredit 
+1472335932323,18:12:12,ProjectStepEnded,missingcode,missingCOMMMA code ,0.0,0.0,0.0,1.0,,,0
+1472335932338,18:12:12,ProjectStepStarted,secredit,missingCOMMMA code 
+1472335935210,18:12:15,ProjectStepEnded,secredit,smallCOMMMA extracredit ,5.0,5.0,0.0,1.0,,,0
+1472335935225,18:12:15,ProjectStepStarted,wangle,smallCOMMMA extracredit 
+1472335937313,18:12:17,ProjectStepEnded,wangle,wrongCOMMMA angle ,20.0,20.3,0.0,1.0,,,0
+1472335937344,18:12:17,AutomaticNavigationEnded
+1472335937360,18:12:17,NavigationKindChange,Manual
+1472335937360,18:12:17,NavigationStarted
+1472335937360,18:12:17,ManualNavigationStarted
+1472335937360,18:12:17,ProjectStepStarted,acorrect,wrongCOMMMA angle 
+1472335937532,18:12:17,ManualNavigationEnded
+1472336193098,18:16:33,ProceedWhenDoneChanged,acorrect,allCOMMMA correct 
+1472336194192,18:16:34,ProjectStepEnded,acorrect,allCOMMMA correct ,35.0,35.0,0.0,1.0,,,0
+1472336194192,18:16:34,ProjectStepperEnded
+1472336349451,18:19:09,ProjectStepperStarted
+1472336349685,18:19:09,NavigationKindChange,Automatic
+1472336349685,18:19:09,NavigationStarted
+1472336349685,18:19:09,AutomaticNavigationStarted
+1472336349701,18:19:09,ProjectStepStarted,acorrect,
+1472336355805,18:19:15,ProjectStepEnded,acorrect,allCOMMMA correct ,35.0,35.0,0.0,1.0,,,0
+1472336355805,18:19:15,ProjectStepStarted,aecredit,allCOMMMA correct 
+1472336359230,18:19:19,ProjectStepEnded,aecredit,allCOMMMA extracredit ,5.0,5.0,0.0,1.0,,,0
+1472336359246,18:19:19,ProjectStepStarted,missingcode,allCOMMMA extracredit 
+1472336360996,18:19:20,ProjectStepEnded,missingcode,missingCOMMMA code ,0.0,0.0,0.0,1.0,,,0
+1472336360996,18:19:20,ProjectStepStarted,secredit,missingCOMMMA code 
+1472336363307,18:19:23,ProjectStepEnded,secredit,smallCOMMMA extracredit ,5.0,5.0,0.0,1.0,,,0
+1472336363323,18:19:23,ProjectStepStarted,wangle,smallCOMMMA extracredit 
+1472336365353,18:19:25,ProjectStepEnded,wangle,wrongCOMMMA angle ,20.0,20.3,0.0,1.0,,,0
+1472336365399,18:19:25,AutomaticNavigationEnded
+1472336365415,18:19:25,NavigationKindChange,Manual
+1472336365415,18:19:25,NavigationStarted
+1472336365415,18:19:25,ManualNavigationStarted
+1472336365415,18:19:25,ProjectStepStarted,acorrect,wrongCOMMMA angle 
+1472336365587,18:19:25,ManualNavigationEnded
+1472336568457,18:22:48,ProjectStepperStarted
+1472336568692,18:22:48,NavigationKindChange,Automatic
+1472336568692,18:22:48,NavigationStarted
+1472336568692,18:22:48,AutomaticNavigationStarted
+1472336568704,18:22:48,ProjectStepStarted,acorrect,
+1472336575123,18:22:55,ProjectStepEnded,acorrect,allCOMMMA correct ,35.0,35.0,0.0,1.0,,,0
+1472336575138,18:22:55,ProjectStepStarted,aecredit,allCOMMMA correct 
+1472336578753,18:22:58,ProjectStepEnded,aecredit,allCOMMMA extracredit ,30.0,30.0,0.0,1.0,,,0
+1472336578769,18:22:58,ProjectStepStarted,missingcode,allCOMMMA extracredit 
+1472336580216,18:23:00,ProjectStepEnded,missingcode,missingCOMMMA code ,0.0,0.0,0.0,1.0,,,0
+1472336580216,18:23:00,ProjectStepStarted,secredit,missingCOMMMA code 
+1472336582821,18:23:02,ProjectStepEnded,secredit,smallCOMMMA extracredit ,5.0,5.0,0.0,1.0,,,0
+1472336582836,18:23:02,ProjectStepStarted,wangle,smallCOMMMA extracredit 
+1472336585051,18:23:05,ProjectStepEnded,wangle,wrongCOMMMA angle ,20.0,20.3,0.0,1.0,,,0
+1472336585083,18:23:05,AutomaticNavigationEnded
+1472336585083,18:23:05,NavigationKindChange,Manual
+1472336585083,18:23:05,NavigationStarted
+1472336585083,18:23:05,ManualNavigationStarted
+1472336585083,18:23:05,ProjectStepStarted,acorrect,wrongCOMMMA angle 
+1472336585223,18:23:05,ManualNavigationEnded
+1472336725913,18:25:25,ProceedWhenDoneChanged,acorrect,allCOMMMA correct 
+1472336726913,18:25:26,UserNextStep,acorrect,allCOMMMA correct 
+1472336726929,18:25:26,ProjectStepEnded,acorrect,allCOMMMA correct ,35.0,35.0,0.0,1.0,,,0
+1472336726947,18:25:26,ProjectStepStarted,aecredit,allCOMMMA correct 
+1472336744336,18:25:44,ProjectStepEnded,aecredit,allCOMMMA extracredit ,30.0,30.0,0.0,1.0,,,0
+1472336744336,18:25:44,ProjectStepperEnded
+1472336943919,18:29:03,ProceedWhenDoneChanged,acorrect,allCOMMMA correct 
+1472336944741,18:29:04,ProjectStepEnded,acorrect,allCOMMMA correct ,35.0,35.0,0.0,1.0,,,0
+1472336944741,18:29:04,ProjectStepperEnded

@@ -1,4 +1,4 @@
-//package gradingTools.comp999junit.assignment1.testables.secredit;
+package gradingTools.comp999junit.assignment1.testables.secredit;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

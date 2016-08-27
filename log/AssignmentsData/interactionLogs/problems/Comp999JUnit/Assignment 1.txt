@@ -1,19 +1,19 @@
-Auto Grading Time: Total: 0:2:32 Average: 0:0:30
-Manual Grading Time: Total: 0:50:35 Average: 0:10:7
+Auto Grading Time: Total: 0:0:33 Average: 0:0:6
+Manual Grading Time: Total: 1:31:38 Average: 0:18:19
 Number of Feature Notes: Total: 1 Average: 0.2
 Number of Source Notes: Total: 5 Average: 1.0
 
 Comp999JUnit:Assignment 1
 --------------------------------------------------------------------------------------------------
-all, correct (acorrect) TOTAL:35.0 AUTO:0:2:9 MANUAL:0:17:47 SECTIONS:[feedback, student_history, source, problem_history] GRADER:Dewan
+all, correct (acorrect) TOTAL:35.0 AUTO:0:0:10 MANUAL:0:58:11 SECTIONS:[feedback, student_history, source, problem_history] GRADER:Dewan
 FEATURES
 TestsTestSuite:Did not do test tests
 
 --------------------------------------------------------------------------------------------------
-all, extracredit (aecredit) TOTAL:5.0 AUTO:0:0:10 MANUAL:0:28:58 SECTIONS:[feedback, student_history, source, problem_history] GRADER:Dewan
+all, extracredit (aecredit) TOTAL:5.0 AUTO:0:0:10 MANUAL:0:29:11 SECTIONS:[feedback, student_history, source, problem_history] GRADER:Dewan
 --------------------------------------------------------------------------------------------------
-missing, code (missingcode) TOTAL:0.0 AUTO:0:0:3 MANUAL:0:0:26 SECTIONS:[feedback, student_history, source, problem_history] GRADER:Dewan
+missing, code (missingcode) TOTAL:0.0 AUTO:0:0:2 MANUAL:0:0:32 SECTIONS:[feedback, student_history, source, problem_history] GRADER:Dewan
 --------------------------------------------------------------------------------------------------
-small, extracredit (secredit) TOTAL:5.0 AUTO:0:0:4 MANUAL:0:2:3 SECTIONS:[feedback, student_history, source, problem_history] GRADER:Dewan
+small, extracredit (secredit) TOTAL:5.0 AUTO:0:0:5 MANUAL:0:2:14 SECTIONS:[feedback, student_history, source, problem_history] GRADER:Dewan
 --------------------------------------------------------------------------------------------------
-wrong, angle (wangle) TOTAL:20.0 FEATURES:20.3 AUTO:0:0:3 MANUAL:0:1:20 SECTIONS:[feedback, student_history, source, problem_history] GRADER:Dewan
+wrong, angle (wangle) TOTAL:20.0 FEATURES:20.3 AUTO:0:0:4 MANUAL:0:1:27 SECTIONS:[feedback, student_history, source, problem_history] GRADER:Dewan

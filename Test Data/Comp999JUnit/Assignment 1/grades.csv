@@ -2,7 +2,7 @@ Assignment 1,Points,,,
 ,,,,
 Display ID,ID,Last Name,First Name,grade
 acorrect,acorrect,All,Correct,35.0
-aecredit,aecredit,All,ExtraCredit,5.0
+aecredit,aecredit,All,ExtraCredit,30.0
 missingcode,missingcode,Missing,Code,0.0
 secredit,secredit,Small,ExtraCredit,5.0
 wangle,wangle,Wrong,Angle,20.0

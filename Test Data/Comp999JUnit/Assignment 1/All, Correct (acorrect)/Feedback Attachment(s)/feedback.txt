@@ -18,6 +18,4 @@ Notes from grading features:
 TestsTestSuite:
   -- Could not find class matching AngleTest
 
-Did not do test tests
-
   Total Score: 35.0

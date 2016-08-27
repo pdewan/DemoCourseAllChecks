@@ -1,8 +1,6 @@
-//package gradingTools.comp999junit.assignment1.testables.aecredit;
+package gradingTools.comp999junit.assignment1.testables.aecredit;
 
 import java.util.Scanner;
-
-import bus.uigen.ObjectEditor;
 
 public class Main {
 	public static void main(String args[]) {
